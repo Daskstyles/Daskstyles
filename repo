@@ -1,0 +1,5 @@
+npm create vite@latest buprime -- --template react
+cd buprime
+npm i lucide-react
+npm i -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
